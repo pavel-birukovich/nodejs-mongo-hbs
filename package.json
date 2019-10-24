@@ -2,10 +2,8 @@
   "dependencies": {
     "express": "^4.17.1",
     "express-handlebars": "^3.1.0",
-    "hbs": "^4.0.6",
     "mongodb": "^3.3.3",
-    "mongoose": "^5.7.6",
-    "request": "^2.88.0"
+    "mongoose": "^5.7.6"
   },
   "name": "lexa-shop",
   "version": "1.0.0",
@@ -18,7 +16,7 @@
     "dev": "nodemon index.js"
   },
   "keywords": [],
-  "author": "",
+  "author": "Boeing_747",
   "license": "ISC",
   "description": ""
 }
